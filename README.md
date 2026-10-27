@@ -20,7 +20,9 @@ A=np.array([[1,2,3],[3,6,9]])
 sol=np.linalg.matrix_rank(A)
 
 print(sol)
-## Output:<img width="571" height="653" alt="{3121CD98-9662-4FB2-9EEC-D3C825BC7DCA}" src="https://github.com/user-attachments/assets/09e83bd0-3144-41c9-96a6-f9183eef320e" />
+## Output:
+<img width="872" height="762" alt="image" src="https://github.com/user-attachments/assets/7d6c5704-424c-46e7-8526-b7285c7ca8c9" />
+
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
